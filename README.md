@@ -1,4 +1,4 @@
-# HackatOCC_Joboard
+# Joboard
 Proyecto Joboard [HackatOCC]
 
 # Colaboradores
