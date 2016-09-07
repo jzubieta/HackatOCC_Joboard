@@ -1,0 +1,233 @@
+{
+	"SQA":
+	{
+		"window_name": "SQA Objects",
+		"flavor": "GlobalObject",
+		"actions":
+		[
+			{
+				"name": "setFilePath",
+				"description": "Función que permite cambiar la ubicación del archivo de parametros y direcciones.",
+				"signature": "/**String*/ nuevaRuta",
+				"paramInfo":
+				{
+					"nuevaRuta": { "description": "Ruta de la nueva ubicación de los archivos" }
+				}
+			},
+			{
+				"name": "setNewVariable",
+				"description": "Crea una nueva variable en el archivo de parametros.",
+				"signature": "/**String*/ variable, /**String*/ valor",
+				"paramInfo":
+				{
+					"variable": { "description": "Nombre de la nueva variable" },
+					"valor": { "description": "Valor que contendrá la nueva variable" }
+				}
+			},
+			{
+				"name": "getVariable",
+				"description": "Obtiene el valor que contiene la variable especificada del archivo de parametros.",
+				"signature": "/**String*/ variable",
+				"paramInfo":
+				{
+					"variable": { "description": "Nombre de la variable que se desea obtener" }
+				}
+			},
+				{
+				"name": "setRandomOption",
+				"description": "Selecciona una al azar una opcion del select.",
+				"signature": "/**String*/ variable",
+				"paramInfo":
+				{
+					"variable": { "description": "Nombre de la nueva variable" },
+					"valor": { "description": "Valor que contendrá la nueva variable" }
+				}
+			},
+			{
+				"name": "editVariable",
+				"description": "Modifica el valor de la variable especificada dentro del archivo de parametros.",
+				"signature": "/**String*/ variable, /**String*/ valor",
+				"paramInfo":
+				{
+					"variable": { "description": "Nombre de la variable que se desea modificar" },
+					"valor": { "description": "Nuevo valor de la variable" }
+				}
+			},
+			{
+				"name": "cleanFile",
+				"description": "Elimina el contenido del archivo de parametros.",
+				"signature": ""
+			},
+			{
+				"name": "queryBD",
+				"description": "Hace una consulta a la base de datos dependiendo de los parametros que se envíen.",
+				"signature": "/**String*/ consulta, /**Object*/ campos",
+				"paramInfo":
+				{
+					"consulta": { "description": "Query que se desea realizar" },
+					"campos": { "description": "Arreglo con los nombres de los campos que se desean obtener" }
+				}
+			},
+			{
+				"name": "queryBD2",
+				"description": "Hace una consulta a la base de datos y regresa un objeto con las columnas como arreglos",
+				"signature": "/**String*/ consulta",
+				"paramInfo":
+				{
+					"consulta": { "description": "Consulta que se desea realizar" }
+				}
+			},
+			{
+				"name": "getBdUrl",
+				"description": "Obtiene de la base de datos el ambiente especificado.",
+				"signature": "/**String*/ idEnv, /**int*/ opQwy",
+				"paramInfo":
+				{
+					"idEnv": { "description": "Id del ambiente en donde se desea probar" },
+					"opQwy": { "description": "Indice de la propiedad a obtener (1: URL || 2: CREDENCIAL BD)" }
+				}
+			},
+			{
+				"name": "changeSpecialChars",
+				"description": "Modifica el texto que se desea enviar al iframe por medio de la función DoSendKeys para que se respeten los caracteres.",
+				"signature": "/**String*/ str",
+				"paramInfo":
+				{
+					"str": { "description": "Texto a modificar" }
+				}
+			},
+			{
+				"name": "waitForObject",
+				"description": "Cicla la ejecución hasta que se encuentra el objecto especificado.",
+				"signature": "/**String*/ objectXPath, /**Boolean*/ existe, /**int*/ time",
+				"paramInfo":
+				{
+					"objectXPath": { "description": "XPath del objecto que se desea encontrar" },
+					"existe": { "description": "Booleano, si true cicla hasta que objecto desaparece, si falso hasta que aparece" },
+					"time": { "description": "Tiempo de espera en segundos" }
+				}
+			},
+			{
+				"name": "getRandomNumber",
+				"description": "Obtiene un número aleatorio dentro del rango especificado.",
+				"signature": "/**int*/ min, /**int*/ max",
+				"paramInfo":
+				{
+					"min": { "description": "Límite inferior del rango" },
+					"max": { "description": "Límite superior del rango" }
+				}
+			},
+			{
+				"name": "createFile",
+				"description": "Crea el directorio y los archivos necesarios para las pruebas de automatización.",
+				"signature": ""
+			},
+			{
+				"name": "getLanguage",
+				"description": "Obtiene el texto de un objeto en un idioma en específico.",
+				"signature": "/**String*/ objID",
+				"paramInfo":
+				{
+					"objID": { "description": "ID del objecto del cual se quiere obtener el texto." }
+				}
+			},
+			{
+				"name": "declararJSON",
+				"description": "Guarda un valor JSON en el archivo especificado en <<url>>.",
+				"signature": "/**String*/ url, /**Object*/ valor ",
+				"paramInfo":
+				{
+					"url": { "description": "Ubicación del archivo." },
+					"valor": {"description": "Objeto JSON a guardar"}
+				}
+			},
+			{
+				"name": "copyObject",
+				"description": "Devuelve un objeto eliminando los atributos nulos.",
+				"signature": "/**Object*/ obj",
+				"paramInfo":
+				{
+					"obj": { "description": "Objeto origen." }
+				}
+			},
+			{
+				"name": "obtieneValorJSON",
+				"description": "Devuelve un objeto JSON a partir del archivo especificado en la url.",
+				"signature": "/**String*/ url",
+				"paramInfo":
+				{
+					"url": { "description": "Archivo origen que debe tener escrito sólo el objeto JSON. Si no es posible deserializar el objeto, devuelve 'Libre'." }
+				}
+			},
+			{
+				"name": "maximizeWindow",
+				"description": "Cambia el tamaño de la ventana del explorador para asegurar el funcionamiento correcto de los sets.",
+				"signature": ""
+			},
+			{
+				"name": "setEnvironment",
+				"description": "Agrega el id del ambiente donde se desea probar al archivo de parametros en base al nombre de éste y el id del proyecto.",
+				"signature": "/**String*/ nameEnv, /**int*/ idPro",
+				"paramInfo":
+				{
+					"nameEnv": { "description": "Nombre del ambiente." },
+					"idPro": { "description": "ID del proyecto." }
+				}
+			},
+			{
+				"name": "editEnvironment",
+				"description": "Modifica el id del ambiente donde se desea probar relacionando dicho elemento en base al nombre de éste y el id del proyecto.",
+				"signature": "/**String*/ nameEnv, /**int*/ idPro",
+				"paramInfo":
+				{
+					"nameEnv": { "description": "Nombre del ambiente." },
+					"idPro": { "description": "ID del proyecto." }
+				}
+			},
+			{
+				"name": "genEmail",
+				"description": "Genera un e-mail.",
+				"signature": "/**String*/ name, /**String*/ domain",
+				"paramInfo":
+				{
+					"name": { "description": "Nombre para la cuenta (ej. Quality Assurance Tester)." },
+					"domain": { "description": "Dominio (ej. mailinator.com)." }
+				}
+			},
+			{
+				"name": "genPassword",
+				"description": "Genera un password.",
+				"signature": "/**int*/length",
+				"paramInfo":
+				{
+					"length": { "description": "Longitud del password a generar. Si no se indica la longitud o es menor a 6, se toma por default el valor 6." }
+				}
+			},
+			{
+				"name": "dateString",
+				"description": "Genera un cadena de fecha y hora.",
+				"signature": ""
+			},
+			{
+				"name": "getRTUser",
+				"description": "Obtiene un usuario aleatorio de pruebas.",
+				"signature": "/**int*/userType",
+				"paramInfo":
+				{
+					"userType": { "description": "Tipo de usuario: 1 = Reclutador | 2 = Candidato." }
+				}
+			},
+			{
+				"name": "LanguageValidation",
+				"description": "(No ingresar el tercer parametro a menos que se trabaje con iframe donde le xpath no funciona)Compara el texto un objeto xpath del DOM con el texto en base de datos de acuerdo a la variable de idioma definida.",
+				"signature": "/**String*/ xpath, /**String*/ elementID, /**String*/ DirectText(Optional)",
+				"paramInfo":
+				{
+					"xpath": { "description": "xpath del objeto que se desea verificar"},
+					"elementID": { "description": "ID en la BD OBJECT_LANGUAGE del objeto a validar"},
+					"DirectText": { "description": "Texto directo completo que se quiere comparar" }
+				}
+			}
+		]
+	}
+}

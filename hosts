@@ -1,0 +1,397 @@
+# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+
+# localhost name resolution is handled within DNS itself.
+#	127.0.0.1       localhost
+#	::1             localhost
+
+#IP Address|       Domain            |          Company Name                      |        Portal             |
+172.16.1.81 unimexver.occqro.local         http://www.unimexver.edu.mx/
+172.16.1.81 unimex.occqro.local         http://www.unimex.edu.mx/
+172.16.1.81 uson.occqro.local         http://www.uson.mx/
+172.16.1.81 upedregal.occqro.local
+172.16.1.81 uinsur.occqro.local
+172.16.1.81 ulsachih.occqro.local         http://www.ulsachihuahua.edu.mx/
+172.16.1.81 ulsano.occqro.local         http://nuevo.ulsa-noroeste.edu.mx/
+172.16.1.81 ulsala.occqro.local
+172.16.1.81 uv.occqro.local         http://www.uv.mx/
+172.16.1.81 ulsavi.occqro.local
+172.16.1.81 bacardi.occqro.local         http://www.bacardi.com/
+172.16.1.81 ulsac.occqro.local         http://www.ulsac.edu.mx/
+172.16.1.81 umsnh.occqro.local         http://www.umich.mx/
+172.16.1.81 ciw.occqro.local         http://ciw.edu.mx/
+172.16.1.81 udecelaya.occqro.local
+172.16.1.81 uady.occqro.local         http://www.uady.mx/
+172.16.1.81 ulsacc.occqro.local         http://www.lasallecancun.edu.mx/
+172.16.1.81 unicaribe.occqro.local         http://www.unicaribe.edu.mx/
+172.16.1.81 unacar.occqro.local         http://www.unacar.mx/
+172.16.1.81 udelondres.occqro.local         http://www.udlondres.com/
+172.16.1.81 roalcom.occqro.local
+172.16.1.81 bepensa.occqro.local         http://www.bepensa.com/
+172.16.1.81 uaem.occqro.local         http://www.uaemex.mx/
+172.16.1.81 uma.occqro.local         http://www.uma.maristas.edu.mx/
+172.16.1.81 ebc.occqro.local         http://www.ebc.mx/
+172.16.1.81 mondragon-uco.occqro.local         http://mondragon-uco.edu.mx/
+172.16.1.81 udelaconcordia.occqro.local         http://www.universidadlaconcordia.edu.mx/
+172.16.1.81 unach.occqro.local         http://www.unach.mx/
+172.16.1.81 uabcs.occqro.local         http://www.uabcs.mx/
+172.16.1.81 geindustrial.occqro.local         http://www.geindustrial.com/cwc/home
+172.16.1.81 ujs.occqro.local         http://www.justo-sierra.edu.mx/index.php
+172.16.1.81 uvg.occqro.local         http://www.uvg.edu.mx/
+172.16.1.81 uover.occqro.local         http://www.uo.edu.mx/
+172.16.1.81 Universidad_del_Testing.occqro.local
+172.16.1.81 Universidad SW.occqro.local
+172.16.1.81 upamozoc.occqro.local         http://www.upamozoc.edu.mx
+172.16.1.81 utrc.occqro.local         http://www.utrc.edu.mx/
+172.16.1.81 tecnm.occqro.local         http://www.tecnm.mx
+172.16.1.81 upz.occqro.local         http://www.upz.edu.mx/
+172.16.1.81 updc.occqro.local         http://www.updc.edu.mx/portal/
+172.16.1.81 utags.occqro.local         http://www.utags.edu.mx/UNIVERSITY/
+172.16.1.81 unitecocc.occqro.local
+172.16.1.81 emporgocc.occqro.local
+172.16.1.81 dom.pruebas.al.occqro.local
+172.16.1.81 domino29.occqro.local
+172.16.1.81 uvp.occqro.local         http://www.uvp.edu.mx/
+172.16.1.81 orgaciion.occqro.local
+172.16.1.81 marista.occqro.local         http://www.marista.edu.mx/
+172.16.1.81 riptac.occqro.local         http://riptac.com.mx/
+172.16.1.81 fundacionparalife.occqro.local
+172.16.1.81 upgm.occqro.local         http://www.upgm.mx/
+172.16.1.81 tununi.occqro.local
+172.16.1.81 conchitawashere.occqro.local
+172.16.1.81 upq.occqro.local         http://www.upq.mx/
+172.16.1.81 ....occqro.local
+172.16.1.81 ....occqro.local
+172.16.1.81 TATA.occqro.local
+172.16.1.81 HITSS.occqro.local
+172.16.1.81 www.dominio.uaq.occqro.local
+172.16.1.81 www.dominio.uaq.occqro.local
+172.16.1.81 www.dominio.uaq.occqro.local
+172.16.1.81 dominio.com.occqro.local
+172.16.1.81 nacobre.occqro.local         http://www.nacobre.com.mx/
+172.16.1.81 nuevo.com.occqro.local
+172.16.1.81 UAQ.occqro.local
+172.16.1.81 prueba.occqro.local
+172.16.1.81 y.occqro.local
+172.16.1.81 upchiapas.occqro.local         http://www.upchiapas.edu.mx/
+172.16.1.81 www.domijio.com.occqro.local
+172.16.1.81 www.domijio.com.occqro.local
+172.16.1.81 utfv.occqro.local         http://qacontent.edomex.gob.mx/utfv/index.htm
+172.16.1.81 tresm.occqro.local         http://www.3m.com/index.html
+172.16.1.81 uteq.occqro.local         http://www.uteq.edu.mx/
+172.16.1.81 sony.occqro.local
+172.16.1.81 ittla.occqro.local
+172.16.1.81 comex.occqro.local         http://www.comex.com.mx/home
+172.16.1.81 bdomexico.occqro.local
+172.16.1.81 tesci.occqro.local         http://tesci.edu.mx/
+172.16.1.81 vitro.occqro.local         http://www.vitro.com/
+172.16.1.81 uicel.occqro.local         http://www.icel.edu.mx/
+172.16.1.81 upt.occqro.local         http://www.upt.edu.mx/
+172.16.1.81 uacam.occqro.local         http://www.uacam.mx/
+172.16.1.81 unicach.occqro.local         http://www.unicach.edu.mx/_/
+172.16.1.81 itorizaba.occqro.local         http://itorizaba.org
+172.16.1.81 umm.occqro.local         http://www.umm.edu.mx/
+172.16.1.81 itsur.occqro.local         http://www.itsur.edu.mx/home.php
+172.16.1.81 telmex.occqro.local         http://www.telmex.com/mx/
+172.16.1.81 uas.occqro.local         http://www.uas.edu.mx/
+172.16.1.81 aliat.occqro.local         http://www.aliatuniversidades.com.mx/
+172.16.1.81 ieu.occqro.local         http://www.sistemaieu.edu.mx
+172.16.1.81 tesco.occqro.local         http://www.tesco.edu.mx/
+172.16.1.81 uiat.occqro.local         http://itzel.lag.uia.mx/publico/index.php
+172.16.1.81 estafeta.occqro.local         http://www.estafeta.com/
+172.16.1.81 bardahl.occqro.local         http://www.bardahl.com.mx/
+172.16.1.81 tese.occqro.local
+172.16.1.81 unea.occqro.local         http://www.unea.edu.mx/
+172.16.1.81 upvm.occqro.local         http://www.upvm.edu.mx/
+172.16.1.81 grupovidanta.occqro.local         http://www.mayanresorts.com/
+172.16.1.81 delasalle.occqro.local         http://bajio.delasalle.edu.mx/
+172.16.1.81 tecmilenioqro.occqro.local         http://www.tecmilenio.edu.mx/campus-queretaro.htm
+172.16.1.81 umq.occqro.local         http://www.umq.edu.mx/
+172.16.1.81 uoccidente.occqro.local         http://promac.udo.mx/portalUDO/
+172.16.1.81 congruencia.occqro.local
+172.16.1.81 banorte.occqro.local         http://www.banorte.com/portal/personas/home.web
+172.16.1.81 compartamos.occqro.local         http://www.compartamos.com/
+172.16.1.81 libertad.occqro.local         http://www.libertad.com.mx/
+172.16.1.81 utsem.occqro.local         http://www.utsem.edu.mx/
+172.16.1.81 itsanjuan.occqro.local         http://www.itsanjuan.edu.mx/
+172.16.1.81 ulsaneza.occqro.local         http://www.ulsaneza.edu.mx/
+172.16.1.81 cuixtlahuaca.occqro.local         http://uicui.edu.mx/
+172.16.1.81 utneza.occqro.local         http://www.utn.edu.mx/
+172.16.1.81 ucad.occqro.local         http://www.ucad.edu.mx/
+172.16.1.81 usancarlos.occqro.local         http://www.universidadsancarlos.edu.mx/
+172.16.1.81 itgam.occqro.local         http://www.itgustavoamadero.edu.mx/
+172.16.1.81 tecmileniosjr.occqro.local         http://www.tecmilenio.edu.mx/campus-san-juan.htm
+172.16.1.81 utvtol.occqro.local         http://www.utvtol.edu.mx/
+172.16.1.81 uttlaxcala.occqro.local         http://www.uttlaxcala.edu.mx/
+172.16.1.81 uopuebla.occqro.local         http://puebla.uo.edu.mx/
+172.16.1.81 itszapotlanejo.occqro.local          http://www.itszapotlanejo.edu.mx/
+172.16.1.81 itsarandas.occqro.local         http://www.itsarandas.edu.mx/
+172.16.1.81 cegestalt.occqro.local         http://www.cegestalt.com/index.php
+172.16.1.81 ymca.occqro.local         http://www.uniymca.edu.mx/
+172.16.1.81 itsvallarta.occqro.local         http://www.tecvallarta.edu.mx/
+172.16.1.81 univermilenium.occqro.local         http://www.univermilenium.edu.mx/
+172.16.1.81 itselgrullo.occqro.local         http://itselgrullo.edu.mx/
+172.16.1.81 utangamanga.occqro.local         http://www.universidadtangamanga.edu.mx/
+172.16.1.81 itscarrillopuerto.occqro.local         http://www.itscarrillopuerto.edu.mx/
+172.16.1.81 gcedva.occqro.local         http://www.grupocedva.com/
+172.16.1.81 itcdguzman.occqro.local         http://www.itcg.edu.mx
+172.16.1.81 ittlahuac.occqro.local         http://www.ittlahuac.edu.mx/
+172.16.1.81 itmilpaalta2.occqro.local         http://www.itmilpaalta2.edu.mx/
+172.16.1.81 ittlahuac2.occqro.local         http://www.ittlahuac2.edu.mx/
+172.16.1.81 ittlahuac3.occqro.local         http://www.ittlahuac3.edu.mx/
+172.16.1.81 itiztapalapa.occqro.local         http://www.itiztapalapa.edu.mx/
+172.16.1.81 utez.occqro.local         http://www.utez.edu.mx/
+172.16.1.81 itsao.occqro.local         http://www.itsao.edu.mx/default/
+172.16.1.81 itao.occqro.local         http://itao.edu.mx
+172.16.1.81 ubj.occqro.local         http://www.ubj.edu.mx/
+172.16.1.81 ittehuacan.occqro.local         http://www.ittehuacan.edu.mx/
+172.16.1.81 itsteziutlan.occqro.local         http://www.itsteziutlan.edu.mx/
+172.16.1.81 itsatlixco.occqro.local         http://www.itsatlixco.edu.mx/tec/
+172.16.1.81 itzacatepec.occqro.local         http://www.itzacatepec.edu.mx/
+172.16.1.81 itszongolica.occqro.local         http://www.itszongolica.edu.mx/
+172.16.1.81 itsh.occqro.local         http://www.itsh.edu.mx/
+172.16.1.81 itshuerta.occqro.local         http://www.itslahuerta.edu.mx/
+172.16.1.81 uttizuca.occqro.local         http://www.utim.edu.mx/
+172.16.1.81 uttecam.occqro.local         http://www.uttecam.edu.mx
+172.16.1.81 uttehuacan.occqro.local         http://www.uttehuacan.edu.mx/
+172.16.1.81 itssmt.occqro.local         http://www.itssmt.edu.mx/
+172.16.1.81 itsjc.occqro.local         http://www.itsjc.edu.mx/
+172.16.1.81 itmina.occqro.local         http://www.itmina.edu.mx/
+172.16.1.81 cuprum.occqro.local
+172.16.1.81 upemor.occqro.local         http://www.upemor.edu.mx
+172.16.1.81 unirem.occqro.local         http://www.unirem.edu.mx/
+172.16.1.81 montrer.occqro.local         http://unimontrer.edu.mx/
+172.16.1.81 uacm.occqro.local         http://www.uacm.edu.mx/
+172.16.1.81 itssnp.occqro.local         http://www.itssnp.edu.mx/
+172.16.1.81 itsalamo.occqro.local         http://www.itsalamo.edu.mx/
+172.16.1.81 itsprogreso.occqro.local         http://www.itsprogreso.edu.mx/
+172.16.1.81 <p></p>.occqro.local
+172.16.1.81 <script>wewe</script>.occqro.local
+172.16.1.81 <p>wewewe</p>.occqro.local
+172.16.1.81 itssna.occqro.local         http://www.itssna.edu.mx/
+172.16.1.81 itspozarica.occqro.local         http://www.itspozarica.edu.mx/
+172.16.1.81 itstepeaca.occqro.local         http://www.itstepeaca.edu.mx/
+172.16.1.81 smurfitkappa.occqro.local         http://www.smurfitkappa.com/vhome/com-mx/Paginas/Default.aspx
+172.16.1.81 monex.occqro.local         http://www.monex.com.mx
+172.16.1.81 itmerida.occqro.local         http://www.itmerida.edu.mx/
+172.16.1.81 imced5.occqro.local         http://www.imced.edu.mx/
+172.16.1.81 ittizi.occqro.local         http://www.ittizimin.edu.mx/
+172.16.1.81 itspan.occqro.local         http://tecnologicodepanuco.com/nueva/
+172.16.1.81 utschoapas.occqro.local         http://www.itschoapas.edu.mx/
+172.16.1.81 utpuebla.occqro.local         http://www.utpuebla.edu.mx/
+172.16.1.81 uocoatza.occqro.local         http://www.uo.edu.mx/portalct/
+172.16.1.81 uxochi.occqro.local         http://www.xochicalco.edu.mx/
+172.16.1.81 itsmisa.occqro.local         http://www.itsm.edu.mx/joomla/
+172.16.1.81 itense.occqro.local         http://www.itensenada.edu.mx/
+172.16.1.81 gutza.occqro.local         http://www.ut2012.utgutierrezzamora.edu.mx/
+172.16.1.81 m5uocan.occqro.local         http://cancun.uo.edu.mx/
+172.16.1.81 itsupsg.occqro.local         http://www.itesg.edu.mx/
+172.16.1.81 utsver.occqro.local         http://www.utsv.edu.mx/
+172.16.1.81 upchihuahua.occqro.local         http://www.upchihuahua.edu.mx/
+172.16.1.81 itscinta.occqro.local         http://www.tecdecintalapa.edu.mx/
+172.16.1.81 utselva.occqro.local         http://www.utselva.edu.mx/
+172.16.1.81 utel.occqro.local         http://www.utel.edu.mx/
+172.16.1.81 palaceresorts.occqro.local         http://www.palaceresorts.com/
+172.16.1.81 itslibres.occqro.local         http://www.itslibres.edu.mx/
+172.16.1.81 itslv.occqro.local         http://www.itslv.edu.mx/
+172.16.1.81 itsoeh.occqro.local         http://www.itsoeh.edu.mx/
+172.16.1.81 teclagos.occqro.local         http://www.teclagos.edu.mx/
+172.16.1.81 amiti.occqro.local         http://amiti.org.mx/
+172.16.1.81 grupocompartamos.occqro.local         http://www.compartamos.com/wps/portal/Grupo/Inicio
+172.16.1.81 tecmilenio.occqro.local         http://www.tecmilenio.edu.mx/
+172.16.1.81 uaeh.occqro.local         http://www.uaeh.edu.mx/
+172.16.1.81 uad.occqro.local         http://www.uad.mx/
+172.16.1.81 ucuau.occqro.local         http://www.ucq.edu.mx/uc/
+172.16.1.81 utsh.occqro.local         http://www.utsh.edu.mx/php/inicio.php
+172.16.1.81 itesa.occqro.local         http://itesa.edu.mx/
+172.16.1.81 itstala.occqro.local         http://www.itstala.edu.mx/
+172.16.1.81 uflp.occqro.local         www.uflp.edu.mx/
+172.16.1.81 peopleconnection.occqro.local         http://peopleconnection.mx/
+172.16.1.81 itesus.occqro.local         http://www.itesus.edu.mx
+172.16.1.81 utulancingo.occqro.local         http://www.utec-tgo.edu.mx
+172.16.1.81 corbuse.occqro.local         http://www.corbuse.com.mx
+172.16.1.81 eccc.occqro.local         http://www.eccc.mx/eccc/
+172.16.1.81 uthh.occqro.local         http://www.uthh.edu.mx/
+172.16.1.81 uttt.occqro.local         http://www.uttt.edu.mx/
+172.16.1.81 upp.occqro.local         http://www.upp.edu.mx
+172.16.1.81 upfim.occqro.local         http://www.upfim.edu.mx/
+172.16.1.81 ithuejutla.occqro.local         http://www.ithuejutla.edu.mx/
+172.16.1.81 itpachuca.occqro.local         http://www.itpachuca.edu.mx/
+172.16.1.81 bimbo.occqro.local         http://www.grupobimbo.com
+172.16.1.81 iteshu.occqro.local         http://www.iteshu.edu.mx/
+172.16.1.81 utvm.occqro.local         http://www.utvm.edu.mx/
+172.16.1.81 upmetropolitana.occqro.local         http://www.upmetropolitana.edu.mx/
+172.16.1.81 itatitalaquia.occqro.local         http://itatitalaquia.edu.mx/
+172.16.1.81 italtamira.occqro.local         http://italtamira.edu.mx/
+172.16.1.81 itvictoria.occqro.local         http://www.itvictoria.edu.mx/
+172.16.1.81 itsmante.occqro.local         http://www.itsmante.edu.mx/
+172.16.1.81 ugmsur.occqro.local         http://www.ugm.edu/
+172.16.1.81 utresculturas.occqro.local         http://www.utc.mx/
+172.16.1.81 uguanajuato.occqro.local         http://www.egresados.ugto.mx/
+172.16.1.81 unica.occqro.local         http://www.unica.edu.mx/
+172.16.1.81 uinterglobal.occqro.local         http://www.universidad-interglobal.mx
+172.16.1.81 uttamaulipasn.occqro.local         http://uttn.edu.mx
+172.16.1.81 dimex.occqro.local         http://www.dimex.mx/
+172.16.1.81 cuamoc.occqro.local         http://www.cuamoc.com/es
+172.16.1.81 uaemorelos.occqro.local         http://www.uaem.mx/
+172.16.1.81 ufram.occqro.local         http://www.ufram.edu.mx
+172.16.1.81 rue.occqro.local
+172.16.1.81 directa.occqro.local
+172.16.1.81 proeza.occqro.local         http://www.proeza.com.mx/
+172.16.1.81 utvco.occqro.local         http://utvco.edu.mx
+172.16.1.81 utsalamanca.occqro.local         http://utsalamanca.edu.mx
+172.16.1.81 royalresorts.occqro.local         http://www.royalresorts.com/
+172.16.1.81 softtek.occqro.local         http://www.softtek.com/
+172.16.1.81 aeropuertosgap.occqro.local         https://www.aeropuertosgap.com.mx
+172.16.1.81 itmilpaalta.occqro.local         http://www.itmilpaalta.edu.mx/
+172.16.1.81 uniprueba.occqro.local
+172.16.1.81 itesco.occqro.local         http://itesco.edu.mx/Web
+172.16.1.81 uphuatusco.occqro.local
+172.16.1.81 uagdl.occqro.local
+172.16.1.81 utcv.occqro.local
+172.16.1.81 itstb.occqro.local
+172.16.1.81 itsalvarado.occqro.local
+172.16.1.81 lacostena.occqro.local
+172.16.1.81 utsoe.occqro.local
+172.16.1.81 saint-gobain.occqro.local         http://www.saint-gobain.com
+172.16.1.81 utsem-morelos.occqro.local         http://www.utsem-morelos.edu.mx
+172.16.1.81 umg.occqro.local
+172.16.1.81 itboca.occqro.local         http://www.itboca.edu.mx/
+172.16.1.81 tsm-tlapa.occqro.local
+172.16.1.81 provident.occqro.local         http://www.provident.com.mx/
+172.16.1.81 utcj.occqro.local         http://www.utcj.edu.mx/
+172.16.1.81 univdep.occqro.local         https://www.univdep.edu.mx/
+172.16.1.81 domino.com.occqro.local
+172.16.1.81 domino.com.occqro.local
+172.16.1.81 alert("ddffdf");.occqro.local
+172.16.1.81 domino.com.occqro.local
+172.16.1.81 uwesthill.occqro.local         http://www.uw.edu.mx/
+172.16.1.81 utxj.occqro.local         http://www.utxj.edu.mx/
+172.16.1.81 sistemaucem.occqro.local         http://sistemaucem.edu.mx/
+172.16.1.81 ulucerna.occqro.local         http://www.lucerna.edu.mx/
+172.16.1.81 sabropollo.occqro.local         http://www.sabro.com.mx/default.htm
+172.16.1.81 takata.occqro.local
+172.16.1.81 itess.occqro.local         http://itess.edu.mx/se/
+172.16.1.81 itsx.occqro.local         http://www.itsx.edu.mx/
+172.16.1.81 udg.occqro.local         http://www.udg.mx/
+172.16.1.81 itmazatlan.occqro.local         http://www.itmazatlan.edu.mx/
+172.16.1.81 itculiacan.occqro.local         http://itculiacan.edu.mx/
+172.16.1.81 ittuxtla.occqro.local         http://www.ittuxtlagutierrez.edu.mx/
+172.16.1.81 industriasalen.occqro.local         http://www.alen.com.mx/
+172.16.1.81 itver.occqro.local         http://gestion.itver.edu.mx/
+172.16.1.81 upsin.occqro.local         http://www.upsin.edu.mx/index.php
+172.16.1.81 itgmadero2.occqro.local         http://itgamadero2.edu.mx/
+172.16.1.81 uatam.occqro.local         http://www.uat.edu.mx/SitePages/principal.aspx
+172.16.1.81 uttecamac.occqro.local         http://www.uttecamac.edu.mx/
+172.16.1.81 unilider.occqro.local         http://unilider.edu.mx
+172.16.1.81 universidadsalesiana.occqro.local         http://www.universidadsalesiana.edu.mx
+172.16.1.81 itchihuahua2.occqro.local         http://www.itchihuahuaii.edu.mx/
+172.16.1.81 usierra.occqro.local         http://www.universidaddelasierra.edu.mx/
+172.16.1.81 tecmartinez.occqro.local         http://www.tecmartinez.edu.mx/
+172.16.1.81 upgto.occqro.local         http://www.upgto.edu.mx
+172.16.1.81 utng.occqro.local         http://utng.edu.mx/
+172.16.1.81 uttijuana.occqro.local         http://www.uttijuana.edu.mx/
+172.16.1.81 unidep.occqro.local         http://www.unidep.mx/
+172.16.1.81 itmatamoros.occqro.local         http://www.itmatamoros.edu.mx/
+172.16.1.81 finomina.occqro.local         http://www.finomina.com.mx
+172.16.1.81 amipci.occqro.local         https://www.amipci.org.mx/
+172.16.1.81 iberopuebla.occqro.local         http://iberopuebla.mx/
+172.16.1.81 universidaddelsur.occqro.local         https://www.universidaddelsur.edu.mx/
+172.16.1.81 fresenius.occqro.local         http://www.fmc-ag.com/
+172.16.1.81 tijuia.occqro.local
+172.16.1.81 utsjr.occqro.local         http://www.utsjr.edu.mx/
+172.16.1.81 grupoaldesa.occqro.local         http://www.grupoaldesa.com.mx
+172.16.1.81 tecsuperiorslp.occqro.local         http://www.tecsuperiorslp.edu.mx/
+172.16.1.81 upnl.occqro.local         http://www.upnl.com.mx
+172.16.1.81 utt.occqro.local         http://www.utt.edu.mx/
+172.16.1.81 utl.occqro.local         http://www.utl.edu.mx/
+172.16.1.81 uppe.occqro.local         http://www.uppenjamo.edu.mx/
+172.16.1.81 btprueba.occqro.local         http://btprueba.occqro.local
+172.16.1.81 uaslp.occqro.local         http://www.uaslp.mx/
+172.16.1.81 utusumacinta.occqro.local         http://www.utusumacinta.edu.mx/
+172.16.1.81 upjr.occqro.local         http://www.upjr.edu.mx/
+172.16.1.81 sivale.occqro.local         http://www.sivale.mx/
+172.16.1.81 iabmexico.occqro.local         http://www.iabmexico.com/
+172.16.1.81 paquetexpress.occqro.local         http://www.paquetexpress.com.mx/
+172.16.1.81 ipeth.occqro.local         http://www.ipeth.edu.mx/
+172.16.1.81 ugestalt.occqro.local         www.ugestalt.edu.mx
+172.16.1.81 ulatinomerida.occqro.local         http://www.universidadlatinomerida.com/
+172.16.1.81 uae.occqro.local         http://uae.edu.mx/
+172.16.1.81 uiepa.occqro.local         http://www.uiepa.edu.mx/
+172.16.1.81 uttab.occqro.local         http://www.uttab.edu.mx/
+172.16.1.81 itsmva.occqro.local         http://www.itsmva.edu.mx/
+172.16.1.81 itsvc.occqro.local         http://www.itsvc.edu.mx/
+172.16.1.81 upzmg.occqro.local         http://upzmg.edu.jalisco.gob.mx/
+172.16.1.81 itsperote.occqro.local         http://www.itsperote.edu.mx
+172.16.1.81 itesca.occqro.local         http://www.itesca.edu.mx/
+172.16.1.81 ues.occqro.local         http://www.ues.mx/
+172.16.1.81 sedetijuana.occqro.local
+172.16.1.81 utrivieramaya.occqro.local         http://www.utrivieramaya.edu.mx/
+172.16.1.81 upslp.occqro.local         http://www.upslp.edu.mx/upslp/
+172.16.1.81 cetys.occqro.local         http://www.cetys.mx/
+172.16.1.81 coparmexver.occqro.local         http://coparmexver.org/
+172.16.1.81 ulamar.occqro.local         http://www.lamar.edu.mx
+172.16.1.81 uto.occqro.local         http://uto.edu.mx
+172.16.1.81 utnay.occqro.local         http://www.utnay.edu.mx/
+172.16.1.81 utacapulco.occqro.local         http://utacapulco.wix.com/utda
+172.16.1.81 mamadigital.occqro.local         http://mentedigital.com/mamadigital/
+172.16.1.81 conocer.occqro.local         http://www.conocer.gob.mx/
+172.16.1.81 Universidad Test P.occqro.local
+172.16.1.81 grupopenafiel.occqro.local         http://www.grupopenafiel.com/
+172.16.1.81 fuller.occqro.local         http://www.fuller.com.mx/
+172.16.1.81 quintiles.occqro.local         http://www.quintiles.com/
+172.16.1.81 chrysler.occqro.local         http://www.chrysler.com.mx/
+172.16.1.81 udem.occqro.local         http://www.udem.edu.mx
+172.16.1.81 unitec.occqro.local         http://www.unitec.mx/
+172.16.1.81 sigmaalimentos.occqro.local         http://www.sigma-alimentos.com/
+172.16.1.81 uvm.occqro.local         http://www.uvmnet.edu/
+172.16.1.81 ulsap.occqro.local         http://www.lasallep.edu.mx/ulsaweb/index.php
+172.16.1.81 udlap.occqro.local         http://www.udlap.mx/
+172.16.1.81 udelt.occqro.local         http://www.tepeyac.edu.mx/
+172.16.1.81 ula.occqro.local         http://www.ula.edu.mx
+172.16.1.81 uic.occqro.local         http://www.uic.edu.mx/
+172.16.1.81 iteso.occqro.local         http://www.iteso.mx/
+172.16.1.81 un.occqro.local         http://www.un.edu.mx/
+172.16.1.81 etac.occqro.local         http://www.universidadetac.edu.mx
+172.16.1.81 lasalledf.occqro.local         http://www.ulsa.edu.mx/
+172.16.1.81 usb.occqro.local         http://www.usb.edu.mx/
+172.16.1.81 udec.occqro.local         http://www.udec.com.mx/
+172.16.1.81 uadec.occqro.local         http://www.uadec.mx/portal/page?_pageid=35,1&_dad=portal&_schema=PORTAL
+172.16.1.81 uchap.occqro.local         http://www.univchapultepec.edu.mx/
+172.16.1.81 ucc.occqro.local         http://www.ver.ucc.mx/
+172.16.1.81 ur.occqro.local         http://vinculacion.ur.mx/
+172.16.1.81 udladf.occqro.local         http://www.udla.mx
+172.16.1.81 ugm.occqro.local
+172.16.1.81 ceu.occqro.local         http://www.ceu.edu.mx
+172.16.1.81 upaep.occqro.local         http://www.upaep.mx/
+172.16.1.81 udelac.occqro.local         http://www.uc.edu.mx/
+172.16.1.81 amedirh.occqro.local         http://www.amedirh.com.mx
+172.16.1.81 aeromexico.occqro.local         http://www.aeromexico.com/es_mx/
+172.16.1.81 uabc.occqro.local         http://www.uabc.mx
+172.16.1.81 olmeca.occqro.local         http://www.olmeca.edu.mx
+172.16.1.81 uach.occqro.local         http://www.uach.mx/
+172.16.1.81 uvb.occqro.local         http://www.uvb.edu.mx/
+172.16.1.81 uaq.occqro.local         http://www.uaq.mx/
+172.16.1.81 uth.occqro.local         http://www.exuth.com/
+172.16.1.81 buap.occqro.local         http://www.buap.mx/
+172.16.1.81 ulsam.occqro.local         http://www.lasallemorelia.edu.mx/
+172.16.1.81 ie.occqro.local         http://www.ie.edu/es/business-school/programas/master-management
+10.10.30.51 utvm.occmcorp.com
+10.10.30.51 utez.occmcorp.com
+10.10.30.51 aliatuniversidades.occmcorp.com
+10.10.30.51 unadm.occmcorp.com
